@@ -1,0 +1,2 @@
+# awesome-ai
+🤖 Awesome AI
