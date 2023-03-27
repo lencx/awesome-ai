@@ -16,14 +16,24 @@
 
 ## Design
 
-- [AI Colors](https://aicolors.co): Generate palettes from a text prompt
+- [AI Colors](https://aicolors.co) - Generate palettes from a text prompt
+- [PhotoRoom](https://www.photoroom.com) - Create product and portrait pictures using only your phone. Remove background, change background and showcase products.
 
 ## Image
 
 - [Midjourney](https://www.midjourney.com) - An independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.
 - [DALL-E 2](https://openai.com/product/dall-e-2) - DALL·E 2 is an AI system that can create realistic images and art from a description in natural language.
 
-## Video
+## Audio
 
 - [Murf AI](https://murf.ai) - AI Voice Generator in 20 languages. 120+ realistic text to speech voices to create the perfect AI voiceover. Go instantly from text to voice with ease.
 - [LALAL.AI](https://www.lalal.ai) - Split vocal and instrumental tracks quickly and accurately with LALAL.AI. Upload any audio file and receive high-quality extracted tracks in a few seconds.
+- [SOUNDRAW](https://soundraw.io) - Your personal AI music generator.
+- [Brain.fm](https://www.brain.fm) - Use Brain.fm's functional music to help you focus relax and sleep better, using cutting edge neuroscience to get results.
+- [Riffusion](https://www.riffusion.com) - Stable diffusion for real-time music generation.
+- [Pollinations.AI](https://pollinations.ai) - Pollinations is a platform to generate media with the help of AI. Here you can create customized, royalty-free pieces of audio, images, 3D objects and soon fully immersive 3D environments on the fly.
+
+## Video
+
+- [Runway](https://runwayml.com) - Explore more than 30+ AI powered creative tools to ideate, generate and edit content like never before.
+- [Fliki](https://fliki.ai) - Create text to video and text to speech content with ai powered voices in minutes. Get started today and create videos and voiceovers with life-like AI voices!
