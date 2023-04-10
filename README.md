@@ -1,5 +1,9 @@
 # Awesome AI
 
+- [Art](./ART.md)
+
+---
+
 ## Content
 
 - [ChatGPT](https://chat.openai.com) - ChatGPT is an artificial intelligence chatbot developed by OpenAI and launched in November 2022. It is built on top of OpenAI's GPT-3.5 and GPT-4 families of large language models (LLMs) and has been fine-tuned (an approach to transfer learning) using both supervised and reinforcement learning techniques.

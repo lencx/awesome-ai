@@ -1,4 +1,4 @@
-# AI Art
+# Art
 
 ## StableDiffusion
 
