@@ -4,6 +4,12 @@
 
 ---
 
+## Share
+
+- [开源浅思](./share/lencx-ChatGPT-%E5%BC%80%E6%BA%90%E6%B5%85%E6%80%9D.pdf) - ChatGPT 桌面应用开发的心路历程。将项目从默默无闻，做到 35K+ Stars 顶级开源。成功具有偶然，不可复制性。但很多因素凑在一起会让一些偶然成为必然，希望通过我的分享可以给大家带来一些思考。
+
+---
+
 ## Content
 
 - [ChatGPT](https://chat.openai.com) - ChatGPT is an artificial intelligence chatbot developed by OpenAI and launched in November 2022. It is built on top of OpenAI's GPT-3.5 and GPT-4 families of large language models (LLMs) and has been fine-tuned (an approach to transfer learning) using both supervised and reinforcement learning techniques.
