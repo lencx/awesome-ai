@@ -42,7 +42,7 @@
 - [Brain.fm](https://www.brain.fm) - Use Brain.fm's functional music to help you focus relax and sleep better, using cutting edge neuroscience to get results.
 - [Riffusion](https://www.riffusion.com) - Stable diffusion for real-time music generation.
 - [Pollinations.AI](https://pollinations.ai) - Pollinations is a platform to generate media with the help of AI. Here you can create customized, royalty-free pieces of audio, images, 3D objects and soon fully immersive 3D environments on the fly.
-
+- [Coqui.AI](https://coqui.ai/) - This platform offers quick and easy voice cloning from 3 seconds of audio or the option to design a dream voice using generative AI. With a growing selection of AI voices, users can easily tune the style, pace, and emotions of any voice to their liking.
 ## Video
 
 - [Runway](https://runwayml.com) - Explore more than 30+ AI powered creative tools to ideate, generate and edit content like never before.
